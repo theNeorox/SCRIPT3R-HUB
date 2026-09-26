@@ -3,7 +3,7 @@
     GitHub Remote Loader / Bundle
 
     Uso no Roblox:
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/refs/heads/main/RemoteHub.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/theNeorox/SCRIPT3R-HUB/refs/heads/main/SCRIPT3R-HUB/RemoteHub.lua"))()
 ]]
 
 local Players = game:GetService("Players")
